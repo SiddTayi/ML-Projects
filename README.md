@@ -1,2 +1,2 @@
-# RTD_Projs
-Real Time Object Detection Projects
+# ML Projs
+Just casual ML stuff 
